@@ -1,0 +1,20 @@
+#Assigning elements of different list
+
+x=[5,6,4,3,2,1]
+x.append(x) 
+print(x) 
+
+#Accessing elements from the tuple
+
+mylist("c","c++","java","python") 
+print(mylist[1: ]
+
+#deleting different dictionary elements
+
+mydict={
+"apple":"red"
+"mango":"Yellow"
+"grapes":"green"
+}
+del mydict ["apple"]
+print(mydict) 
